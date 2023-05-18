@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Kaan
 
-- 🌱 I’m currently learning Backend techs, Artificial Intelligence, ...
+- 🌱 I’m currently learning Frontend techs, Backend techs, Artificial Intelligence, ...
 - 🔭 I’m currently working on telecommunication project at Icterra
 - 💬 Ask me about C++, Backend techs, Artificial Intelligence
 <!--
