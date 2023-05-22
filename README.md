@@ -27,5 +27,3 @@ Here are some ideas to get you started:
 
 <br />
 <br />
-
-![](https://komarev.com/ghpvc/?username=kaan-donmez&color=brightgreen)
