@@ -52,3 +52,4 @@ Here are some ideas to get you started:
     </a>
   </p>
  
+![Metrics](/github-metrics.svg)
