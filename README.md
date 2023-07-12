@@ -51,5 +51,3 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaan-donmez&langs_count=7&card_width=800&theme=github_dark&hide_border=true&hide=makefile,cmake,c" />
     </a>
   </p>
- 
-![Metrics](/github-metrics.svg)
