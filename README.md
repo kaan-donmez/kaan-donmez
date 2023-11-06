@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Kaan
 
 - 🌱 I’m currently learning Frontend techs, Backend techs, Artificial Intelligence, ...
-- 🔭 I’m currently working on telecommunication project at Icterra
-- 💬 Ask me about C++, Frontend techs, Backend techs, Artificial Intelligence
+- 🔭 I’m currently working on a telecommunication project at Icterra
+- 💬 Ask me about Frontend techs, Backend techs, Artificial Intelligence
 
 <!--
 **kaan-donmez/kaan-donmez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
