@@ -1,6 +1,5 @@
 ### Hi there 👋 I'm Kaan
 
-- 🌱 I’m currently learning Frontend techs, Backend techs, Artificial Intelligence, ...
 - 🔭 I’m currently working on a telecommunication project at ICterra
 - 💬 Ask me about Frontend techs, Backend techs, Artificial Intelligence
 
