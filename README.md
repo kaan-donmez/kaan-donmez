@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Kaan
 
-- 💬 Ask me about Frontend Techs, Backend Techs, Data Science
+- 💬 Ask me about Frontend Techs, Backend Techs, Machine Learning
 
 <!--
 **kaan-donmez/kaan-donmez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
