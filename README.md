@@ -6,7 +6,7 @@
 
 ---
 
-### <p align="center"> I write code in whatever language I want. </p>
+### <p align="center"> I write clean code regardless of language. </p>
 
 ---
 
