@@ -1,20 +1,18 @@
 ### <p align="center"> Hi there 👋 I'm Kaan </p>
 
-<div align="center">
+<div><p> 
+  I am an experienced software developer, I am passionate about developing software regardless of the language. Feel free to reach me through LinkedIn if you're looking for a freelancer.
+
+</p> </div>
+
+<pre> Technologies I currently use
+- React, Svelte, Vue, etc. (it doesn't matter to me)
+- NodeJS, Java
+- Kafka
+- Redis
+- Postgre, MySQL  </pre>
+
+
+<div>
   <p> Ask me about Frontend Techs, Backend Techs, Machine Learning </p>
-</div>
-
----
-
-### <p align="center"> I write clean code regardless of language. </p>
-
----
-
-<div align="center">
-  <a href="https://github.com/kaan-donmez">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaan-donmez&theme=github_dark" />
-  </a>
-  <a href="https://github.com/kaan-donmez">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaan-donmez&langs_count=10&card_width=800&theme=github_dark&hide_border=true&hide=makefile,cmake,c,html,css,blade,php,c%2B%2B,qmake,scss,javascript,jupyter%20notebook,swift,dockerfile" />
-  </a>
 </div>
