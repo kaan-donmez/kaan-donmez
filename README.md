@@ -7,7 +7,7 @@
 
 <pre> Technologies I currently use
 - React, Svelte, Vue, etc. (it doesn't matter to me)
-- NodeJS, Java
+- NodeJS, Java, Python
 - Kafka
 - Redis
 - Postgre, MySQL  </pre>
