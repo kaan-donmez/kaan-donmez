@@ -1,12 +1,18 @@
 ### <p align="center"> Hi there 👋 I'm Kaan </p>
 
 <div><p> 
-I am a seasoned software developer with a deep passion for crafting high-quality software solutions, regardless of the programming language. If you’re seeking a freelancer who is dedicated to delivering excellence, feel free to connect with me on LinkedIn.
-</p> </div>
+Senior Full-Stack Developer with 5+ years specializing in scalable microservices, real-time data systems, and modern web applications. Expert in building high-performance backend APIs and interactive frontends using polyglot architecture. Built production systems processing millions of events daily with comprehensive observability and cloud-native infrastructure.
+</p>
+<p> 
+Feel free to connect with me on LinkedIn
+</p>
+ </div>
 
-<pre> Technologies I currently use
-- React, Svelte, Vue, etc. 
-- Typescript, Java, C#, Python, etc.
-- Kafka
-- Redis, MongoDB
-- Postgre, MySQL </pre>
+<pre>
+Frontend: React, Vue, Svelte
+Backend: TypeScript, Java, C#, Python, C++, Rust, Go
+APIs: REST APIs, gRPC, GraphQL, SOAP
+Database: PostgreSQL, MongoDB, Redis
+Testing: Jest, JUnit, Google Test, Selenium
+Observability: OpenTelemetry, Grafana LGTM Stack, Prometheus
+Messaging & Streaming: Apache Kafka, Apache Flink, RabbitMQL </pre>
