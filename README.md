@@ -13,6 +13,6 @@ Frontend: React, Vue, Svelte
 Backend: TypeScript, Java, C#, Python, C++, Rust, Go
 APIs: REST APIs, gRPC, GraphQL, SOAP
 Database: PostgreSQL, MongoDB, Redis
-Testing: Jest, JUnit, Google Test, Selenium
+Testing: Jest, JUnit, xUnit, gtest, Playwright
 Observability: OpenTelemetry, Grafana LGTM Stack, Prometheus
-Messaging & Streaming: Apache Kafka, Apache Flink, RabbitMQL </pre>
+Messaging & Streaming: Apache Kafka, Apache Flink, RabbitMQ </pre>
